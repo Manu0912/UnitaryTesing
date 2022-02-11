@@ -1,6 +1,6 @@
 ﻿using Math;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
+
 namespace UnitaryTesting
 {
     [TestClass]
