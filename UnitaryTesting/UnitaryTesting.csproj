@@ -30,6 +30,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ExercisesMoshCourse\ExercisesMoshCourse.csproj" />
     <ProjectReference Include="..\Math\Math.csproj" />
   </ItemGroup>
   <ItemGroup />
