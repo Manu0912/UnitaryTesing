@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitaryTesting", "UnitaryTe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{6B645276-D7C9-412A-8B4A-A2A2DCABF206}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesMoshCourse", "ExercisesMoshCourse\ExercisesMoshCourse.csproj", "{779B9F05-C659-4111-9763-0B5FE34A7984}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,14 @@ Global
 		{6B645276-D7C9-412A-8B4A-A2A2DCABF206}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6B645276-D7C9-412A-8B4A-A2A2DCABF206}.Release|x64.ActiveCfg = Release|x64
 		{6B645276-D7C9-412A-8B4A-A2A2DCABF206}.Release|x64.Build.0 = Release|x64
+		{779B9F05-C659-4111-9763-0B5FE34A7984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779B9F05-C659-4111-9763-0B5FE34A7984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779B9F05-C659-4111-9763-0B5FE34A7984}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{779B9F05-C659-4111-9763-0B5FE34A7984}.Debug|x64.Build.0 = Debug|Any CPU
+		{779B9F05-C659-4111-9763-0B5FE34A7984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779B9F05-C659-4111-9763-0B5FE34A7984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779B9F05-C659-4111-9763-0B5FE34A7984}.Release|x64.ActiveCfg = Release|Any CPU
+		{779B9F05-C659-4111-9763-0B5FE34A7984}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
