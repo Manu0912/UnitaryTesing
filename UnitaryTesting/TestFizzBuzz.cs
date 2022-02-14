@@ -9,7 +9,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace UnitaryTesting
 {
     [TestClass]
-    public class TestMoshExercises
+    public class TestFizzBuzz
     {
         [TestMethod]
         public void GetOutput_WhenCalled_ShouldReturnFizz()
