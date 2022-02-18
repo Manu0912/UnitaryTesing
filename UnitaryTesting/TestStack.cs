@@ -11,6 +11,7 @@ namespace UnitaryTesting
     [TestClass]
     public class TestStack
     {
+
         [TestMethod]
         public void Push_NullArgument_ShouldThrowArgumentNullException()
         {
@@ -60,7 +61,7 @@ namespace UnitaryTesting
 
             stack.Push(example);
 
-            Assert.AreEqual("a", stack.Peek());
+            Assert.AreEqual("example", stack.Peek());
         }
 
         [TestMethod]
