@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BookingHelperProject
+namespace FinalExercises
 {
    
         public interface IUnitOfWork

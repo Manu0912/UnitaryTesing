@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercisesChapterSix", "Book
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestExercisesPartSix", "TestExercisesPartSix\TestExercisesPartSix.csproj", "{FB721FE9-6A68-4DD5-BBD0-B209139F4E96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingHelperProject", "BookingHelperProject\BookingHelperProject.csproj", "{E8D49B0E-C686-4D9A-B3F4-2278AC4B52F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalExercises", "BookingHelperProject\FinalExercises.csproj", "{E8D49B0E-C686-4D9A-B3F4-2278AC4B52F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBookingHelper", "TestBookingHelper\TestBookingHelper.csproj", "{D98A6CDD-A93A-4F54-8712-D28F26EEDE6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBookingHelper", "TestBookingHelper\TestBookingHelper.csproj", "{D98A6CDD-A93A-4F54-8712-D28F26EEDE6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseKeeperTest", "HouseKeeperHelper\HouseKeeperTest.csproj", "{E9131B37-E42E-4824-8F13-8E7AA7067C46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,14 @@ Global
 		{D98A6CDD-A93A-4F54-8712-D28F26EEDE6B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D98A6CDD-A93A-4F54-8712-D28F26EEDE6B}.Release|x64.ActiveCfg = Release|Any CPU
 		{D98A6CDD-A93A-4F54-8712-D28F26EEDE6B}.Release|x64.Build.0 = Release|Any CPU
+		{E9131B37-E42E-4824-8F13-8E7AA7067C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9131B37-E42E-4824-8F13-8E7AA7067C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9131B37-E42E-4824-8F13-8E7AA7067C46}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E9131B37-E42E-4824-8F13-8E7AA7067C46}.Debug|x64.Build.0 = Debug|Any CPU
+		{E9131B37-E42E-4824-8F13-8E7AA7067C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9131B37-E42E-4824-8F13-8E7AA7067C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9131B37-E42E-4824-8F13-8E7AA7067C46}.Release|x64.ActiveCfg = Release|Any CPU
+		{E9131B37-E42E-4824-8F13-8E7AA7067C46}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
